@@ -1,4 +1,4 @@
-# Moduł logika
+# Moduł logika - bardziej szczegolowa informacja
 
 Odpowiedzialny: ajifos2131
 Stan: GOTOWY
